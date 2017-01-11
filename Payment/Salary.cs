@@ -1,7 +1,7 @@
 ﻿namespace Payment
 {
     /// <summary>
-    /// 
+    /// Salary
     /// </summary>
     public class Salary
     {
